@@ -40,3 +40,7 @@
 
  ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_5.png)
 
+Просматриваем содержимое флеш памяти
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_6.png)
+
