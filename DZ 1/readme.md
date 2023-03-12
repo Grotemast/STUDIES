@@ -27,4 +27,5 @@
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_2.png)
 
 ## Смотрим конфиг
-Видем что по умолчанию на SW1 не прописн ip адрес, VLAN1 defaulf. (Конфиг во вложении)
+
+![]()
