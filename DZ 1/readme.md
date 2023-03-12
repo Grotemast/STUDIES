@@ -19,22 +19,17 @@
    2. С помощью PuTTY получаем доступ к SW1 (в packet tracer через консоль)
 
 
-
-
-
 ## Ч1. Смотрим настройки SW1 
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_2.png)
 
-## Смотрим конфиг (ссылка на конфиг)
+## Смотрим конфиг (ссылка на конфиг) (конфиг выгружен из SW1)
 [![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_3.1.png)](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/Config%201/Sw1_running-config.txt)
-
-
-
-
+(можно поменять конфиг в txt и сохранить, тогда конфигурация будет готовой)
 
 
 
 
 # Вводим каманду enable (вход с правами root, привилегированный режим)
-
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_1.png)
+# И проверяем конфигурацию по умолчанию командой show running-config
