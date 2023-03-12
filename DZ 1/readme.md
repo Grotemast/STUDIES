@@ -37,6 +37,6 @@
  И проверяем конфигурацию по умолчанию командой show running-config
  
  Проверяем свойства FastEthernet порта куда подключен ПК командой show interface f0/6
- ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_4.png)
 
+ ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_5.png)
 
