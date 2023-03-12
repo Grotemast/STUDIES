@@ -28,4 +28,4 @@
 
 ## Смотрим конфиг
 
-![]()
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/Config%201/Sw1_running-config.txt)
