@@ -26,8 +26,9 @@
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_2.png)
 
-## Смотрим конфиг
+## Смотрим конфиг (ссылка на конфиг)
 [![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_3.1.png)](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/Config%201/Sw1_running-config.txt)
+
 
 
 
