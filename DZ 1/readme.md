@@ -13,11 +13,11 @@
 ## Схема сети и подключения
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_1.png)
-### 1.Коммутатор SW1 подключается консольным кабелем к ПК
-### 2.С помощью PuTTY получаем доступ к SW1 (в packet tracer через консоль)
-### 3.
+    1. Коммутатор SW1 подключается консольным кабелем к ПК
+    2. С помощью PuTTY получаем доступ к SW1 (в packet tracer через консоль)
 
-## Смотрим настройки SW1 
+
+## Ч1. Смотрим настройки SW1 
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_2.png)
 
