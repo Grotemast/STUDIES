@@ -32,7 +32,7 @@
 
 
 # Вводим каманду enable (вход с правами root, привилегированный режим)
-![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_1.png)
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_4.png)
 
 # И проверяем конфигурацию по умолчанию командой show running-config
 
