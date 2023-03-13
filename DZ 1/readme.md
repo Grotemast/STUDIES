@@ -45,3 +45,22 @@
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_6.png)
 
 ## Ч2. Настройка базовых параметров устройств 
+
+Задаем имя устройству
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_8.png)
+
+Создаем пароль для (config-line) 
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_9.png)
+
+Создаем пароль для (config)
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_10.png)
+
+Проверяем
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_11.png)
+
+
+
