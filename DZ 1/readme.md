@@ -81,3 +81,12 @@
 # Задаем ip адрес и открываем порты.
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_16.png)
+
+# Для проверки установим и настроим роутер (для раздачи DHCP)
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_17.png)
+
+# Проверим соединение командой ping
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_18.png)
+
