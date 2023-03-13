@@ -65,3 +65,11 @@
 # Открываем VTY 
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_12.png)
+
+# Создаем баннер
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_13.png)
+
+# Сохраняем конфиг в стартовый конфиг 
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_14.png)
