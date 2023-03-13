@@ -73,3 +73,7 @@
 # Сохраняем конфиг в стартовый конфиг 
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_14.png)
+
+# Задаем ip адрес и открываем порты.
+
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_15.png)
