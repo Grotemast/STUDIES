@@ -86,7 +86,7 @@
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_17.png)
 
-# Проверим соединение командой ping
+# Проверим соединение командой ping, перед этим прописываем статику на PC-A
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_18.png)
 
