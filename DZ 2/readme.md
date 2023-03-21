@@ -17,4 +17,7 @@
  |    PC-A    |     NIC   |  192.168.1.1   |  255.255.255.0  |
  |    PC-B    |     NIC   |  192.168.1.2   |  255.255.255.0  |
  
+ #
+ #
+ #
  ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.1.png)
