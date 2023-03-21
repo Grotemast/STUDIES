@@ -6,7 +6,7 @@
     
 ## Схема подключения (сети)
 
-![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.1.png)
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.0.png)
    
 # Выставляем и прописываем на устройствах имена хостов, IP адреса согласно приведенной схеме.
 
