@@ -28,8 +28,18 @@
 
  ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.3.png)
  
+  | Устройство |   адрес   |  
+  |------------|-----------|
+  |     PC-A   |           | 
+  |     PC-B   |           | 
+ 
 # Ш.1.b  Смотрим данные коммутаторов посредствам команды show interface f0/1 на каждом коммутаторе
  
  ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.4.png)
+ 
+  | Устройство |         адрес         |  
+  |------------|-----------------------|
+  |     SW1    |     0040.0b9d.a501    | 
+  |     SW2    |     0003.e419.d701    | 
  
  
