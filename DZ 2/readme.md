@@ -24,11 +24,12 @@
 
 # Ч2. Таблица MAC адресов коммутатора
 
-# a) При просмотре адаптера PC-A и PC-B, посредствам утилиты ipconfig /all наблюдаем следующие физические адреса (MACи)
+# Ш.1.a  При просмотре адаптера PC-A и PC-B, посредствам утилиты ipconfig /all наблюдаем следующие физические адреса 
 
  ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.3.png)
  
-
+# Ш.1.b  Смотрим данные коммутаторов посредствам команды show interface f0/1 на каждом коммутаторе
  
+ ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.4.png)
  
  
