@@ -46,9 +46,11 @@
  
  # Ш.2.b Просматриваем таблицу MAC адресов с помощью команды show mac address-table 
 
-сравниваем данные таблицы MAC и данные порта.
+ # сравниваем данные таблицы MAC и данные порта.
 
-![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.6.png)
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.7.png)
+
+
 
 
 
