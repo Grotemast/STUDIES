@@ -35,7 +35,7 @@
  
 # Ш.1.b  Смотрим данные коммутаторов с помощью команды show interface f0/1 на каждом коммутаторе
  
- ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.4.png)
+ ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.2.2.png)
  
   | Устройство |         адрес         |  
   |------------|-----------------------|
