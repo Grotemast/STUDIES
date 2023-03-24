@@ -58,5 +58,7 @@
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.9.png)
 
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.10.png)
+
 # Как видим что все устройства распознаны по MAC адресам.
 
