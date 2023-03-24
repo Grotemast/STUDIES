@@ -50,9 +50,13 @@
 
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.7.png)
 
+ # Ш.3.a-b Очищаем таблицу MAC на SW2 командой clear mac address-table
 
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.8.png)
 
+# Ш.3.a-c С PC-B отправляем эхо запросs на устройства в сети и смотрим таблицу MAC 
 
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%202/DZ%202%20PNG/Screenshot_2.9.png)
 
-
+# Как видим что все устройства распознаны по MAC адресам.
 
