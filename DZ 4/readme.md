@@ -2,6 +2,5 @@
 
 
 
-![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_4.1.png)
-
-
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%204/DZ%204%20PNG/Screenshot_4.1.png)
+    
