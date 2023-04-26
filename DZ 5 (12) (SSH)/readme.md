@@ -17,7 +17,9 @@
 ### Ч3. Настройка SW1 (коммутатора) для доступа по SSH
 ### Ч4. SSH через интерфейс командной строки (CLI) коммутатора  
 
-
+ #
+ 
 ## Ч1. Настройка основных параметров 
+### Настройка PC согласно топологии.
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%205%20(12)%20(SSH)/DZ%205%20(JPG)/Screenshot_5.2.png)
 
-![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_5.2.png)
