@@ -22,4 +22,7 @@
 ## Ч1. Настройка основных параметров 
 ### Настройка PC согласно топологии.
 ![](https://github.com/Grotemast/STUDIES/blob/main/DZ%205%20(12)%20(SSH)/DZ%205%20(JPG)/Screenshot_5.2.png)
-
+### Настройка SW1 согласно топологии.
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%205%20(12)%20(SSH)/DZ%205%20(JPG)/Screenshot_5.3.png)
+### Настройка R1 согласно топологии.
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%205%20(12)%20(SSH)/DZ%205%20(JPG)/Screenshot_5.4.png)
