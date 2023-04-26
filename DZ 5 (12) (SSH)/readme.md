@@ -2,7 +2,7 @@
 
 ## Схема подключения (сети)
 
-![](https://github.com/Grotemast/STUDIES/blob/main/DZ%201/DZ%201%20JPG/Screenshot_5.1.png)
+![](https://github.com/Grotemast/STUDIES/blob/main/DZ%205%20(12)%20(SSH)/DZ%205%20(JPG)/Screenshot_5.1.png)
 
 ## Таблица адресации
  | Устройство | интерфейс |   IP адрес     |      Маска      |     Шлюз     |
